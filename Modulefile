@@ -1,0 +1,7 @@
+name 'puppet-php-simple'
+version '1.0.0'
+source 'git@github.com:woss/puppet-php-simple.git'
+author 'Danijel Maricic'
+license 'Apache 2.0'
+summary 'PHP module'
+description 'PHP module'
